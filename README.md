@@ -1,4 +1,4 @@
-# Barracuda vs Garibaldi
+
 
 ## Goal
 
