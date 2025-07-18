@@ -1,4 +1,4 @@
-## Barracuda vs Garibaldi
+# Barracuda vs Garibaldi
 
 ## Instructions
 
@@ -6,4 +6,10 @@
 
 ### Hit spacebar to shoot descending barracudas.
 
+### Each player gets three garibaldis.
+
 ### Hit "q" to quit game.
+
+## Goal
+
+### Shoot barricudas to get high score before lossing three garibaldis
