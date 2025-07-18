@@ -2,7 +2,7 @@
 
 ## Goal
 
-### Shoot barricudas to get high score before loosing three garibaldis
+### Shoot barracudas to get high score before loosing three garibaldis
 
 ## Instructions
 
