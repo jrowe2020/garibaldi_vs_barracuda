@@ -15,6 +15,9 @@
 ### Hit "q" to quit game.
 
 ## Screenshots
+
 ![Barracuda_image](https://github.com/jrowe2020/alien_invasion/blob/main/barracuda_invasion.png)
+
+![Game_image](https://github.com/jrowe2020/alien_invasion/blob/main/barracuda.png)
 
 
